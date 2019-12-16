@@ -1,0 +1,2 @@
+# Time-Series-Modeling
+The dataset contains each household's electric power consumption in the entire area which consist of 2075259 records (houses) located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months). The task is to predict the electricity power consumption for unknown houses in that area with respect to the measurement we had.  Though ,this is Supervised Learning problem as the dataset consist of target value also and this is the regression problem as the prediction is of power consumption ie. continuous value.
